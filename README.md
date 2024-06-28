@@ -1,16 +1,26 @@
-# skin_cancer_app_final
+# Skin Healthify
 
-A new Flutter project.
+# Skin Cancer Detection App
 
-## Getting Started
+A Flutter application that uses AI to detect skin cancer from images. This app leverages machine learning models to analyze skin lesions and provide a diagnosis.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **AI-Powered Detection**: Uses a trained machine learning model to detect skin cancer.
+- **User-Friendly Interface**: Simple and intuitive UI for easy navigation.
+- **Real-Time Analysis**: Provides instant feedback on the uploaded images.
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Upload Image
+![Upload Image](screenshots/upload_image.png)
+
+### Results Screen
+![Results Screen](screenshots/results_screen.png)
+
+
