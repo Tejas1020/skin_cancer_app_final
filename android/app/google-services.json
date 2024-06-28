@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "783034806741",
+    "project_id": "skin-cancer-product",
+    "storage_bucket": "skin-cancer-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783034806741:android:ee443ad99961651440cd5c",
+        "android_client_info": {
+          "package_name": "com.example.skin_cancer_app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783034806741-ku3c0r6frcslud30puvd4jc58mvhisqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjqhh79oqxx0tGElCy0E-M1zQ-VHOyag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783034806741-23chd5pbjhfkcdl2dqaniarmip36vl1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783034806741-hk0l4c66va7ep9odvlkq8ktl8hfoksot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skinCancerStartup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783034806741:android:c54d701436e5d86440cd5c",
+        "android_client_info": {
+          "package_name": "com.example.skin_cancer_startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783034806741-ku3c0r6frcslud30puvd4jc58mvhisqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjqhh79oqxx0tGElCy0E-M1zQ-VHOyag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783034806741-23chd5pbjhfkcdl2dqaniarmip36vl1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783034806741-hk0l4c66va7ep9odvlkq8ktl8hfoksot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skinCancerStartup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
