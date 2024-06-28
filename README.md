@@ -15,12 +15,14 @@ A Flutter application that uses AI to detect skin cancer from images. This app l
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<img src="canv1.png" alt="App Screenshot" width="300"/>
 
-### Upload Image
-![Upload Image](screenshots/upload_image.png)
+### Other Features of APP 
+<img src="canv2.png" alt="App Screenshot" width="300"/>
+<img src="canv3.png" alt="App Screenshot" width="300"/>
+<img src="canv4.png" alt="App Screenshot" width="300"/>
 
 ### Results Screen
-![Results Screen](screenshots/results_screen.png)
+<img src="canv5.png" alt="App Screenshot" width="300"/>
 
 
